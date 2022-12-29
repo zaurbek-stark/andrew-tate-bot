@@ -1,9 +1,9 @@
 # Andrew Tate Bot
 
-This is the codebase for the Andrew Tate bot that I developed in this video. It's a chatbot that thinks and talks like Andrew Tate.
+This is the codebase for the Andrew Tate bot that I developed in [this video](https://youtu.be/PRPgWj94hrI). It's a chatbot that thinks and talks like Andrew Tate.
 <div>
 <a href="https://youtu.be/PRPgWj94hrI" target="_blank">
-
+<img width="317" alt="image" src="https://user-images.githubusercontent.com/121587026/210021855-a95fea45-b1d4-4dfb-be42-18d8472bfafe.png">
 </a>
 </div>
 
